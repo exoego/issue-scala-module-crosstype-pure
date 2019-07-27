@@ -1,0 +1,14 @@
+# Project exclude paths
+/.js/target/
+/.js/target/scala-2.12/classes/
+/.js/target/scala-2.12/test-classes/
+/.js/target/scala-2.13/
+/.js/target/streams/
+/.jvm/target/
+/.jvm/target/scala-2.12/classes/
+/.jvm/target/scala-2.12/test-classes/
+/.jvm/target/scala-2.13/
+/.jvm/target/streams/
+/project/project/target/
+/project/target/
+/target/
